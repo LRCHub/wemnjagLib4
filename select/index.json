@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Remedy",
+  "base_artist": "坂本真綾",
+  "createdAt": "2026-03-10T01:52:09.058627Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "His Remedy",
+      "artist": "王若琳",
+      "has_synced": true,
+      "path": "select/01_His_Remedy_王若琳.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Temporary Remedy",
+      "artist": "Ben Harper",
+      "has_synced": true,
+      "path": "select/02_Temporary_Remedy_Ben_Harper.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Love Remedy",
+      "artist": "Roachford",
+      "has_synced": true,
+      "path": "select/03_Love_Remedy_Roachford.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Remedy",
+      "artist": "Adele",
+      "has_synced": true,
+      "path": "select/04_Remedy_Adele.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Remedy",
+      "artist": "Son Lux",
+      "has_synced": true,
+      "path": "select/05_Remedy_Son_Lux.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Remedy, Surging Sea",
+      "artist": "Son Lux",
+      "has_synced": true,
+      "path": "select/06_Remedy,_Surging_Sea_Son_Lux.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Poison or Remedy",
+      "artist": "Glass Candy",
+      "has_synced": false,
+      "path": "select/07_Poison_or_Remedy_Glass_Candy.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Wasting My Young Years (Sound Remedy Remix)",
+      "artist": "London Grammar",
+      "has_synced": false,
+      "path": "select/08_Wasting_My_Young_Years_(Sound_Remedy_Remix)_London_Grammar.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Wasting My Young Years [Sound Remedy remix]",
+      "artist": "London Grammar",
+      "has_synced": false,
+      "path": "select/09_Wasting_My_Young_Years_[Sound_Remedy_remix]_London_Grammar.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Remedy",
+      "artist": "Crookers feat. Miike Snow",
+      "has_synced": true,
+      "path": "select/10_Remedy_Crookers_feat._Miike_Snow.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Remedy (Ft. Miike Snow)",
+      "artist": "Crookers",
+      "has_synced": true,
+      "path": "select/11_Remedy_(Ft._Miike_Snow)_Crookers.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Remedy (feat. Stevie Nicks)",
+      "artist": "Maroon 5 feat. Stevie Nicks",
+      "has_synced": true,
+      "path": "select/12_Remedy_(feat._Stevie_Nicks)_Maroon_5_feat._Stevie_Nicks.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Remedy",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/13_Remedy_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Mindfall Remedy",
+      "artist": "Kamelot",
+      "has_synced": true,
+      "path": "select/14_Mindfall_Remedy_Kamelot.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Toxic Remedy",
+      "artist": "Queensrÿche",
+      "has_synced": true,
+      "path": "select/15_Toxic_Remedy_Queensrÿche.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Remedy",
+      "artist": "TANKARD",
+      "has_synced": false,
+      "path": "select/16_Remedy_TANKARD.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Remedy (Rose Tattoo Cover)",
+      "artist": "Tankard",
+      "has_synced": false,
+      "path": "select/17_Remedy_(Rose_Tattoo_Cover)_Tankard.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Love Me Again (Sound Remedy Remix)",
+      "artist": "John Newman",
+      "has_synced": false,
+      "path": "select/18_Love_Me_Again_(Sound_Remedy_Remix)_John_Newman.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Remedy",
+      "artist": "坂本 真綾",
+      "has_synced": false,
+      "path": "select/pl_01_Remedy_坂本_真綾.txt"
+    }
+  ]
+}
